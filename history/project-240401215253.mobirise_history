@@ -173,9 +173,7 @@
     "gdpr": false,
     "cookiesAlert": false,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
-    "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-152633536-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-152633536-1');\n</script>",
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-152633536-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-152633536-1');\n</script>"
   },
   "pages": {
     "index.html": {
