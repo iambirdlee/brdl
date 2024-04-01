@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BRDL",
-    "currentPage": "rekalusi.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -9666,7 +9666,7 @@
           },
           "_name": "custom-html",
           "_sourceTheme": "mobirise5",
-          "_customHTML": "<section mbr-id=\"_anchor\" class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <video width=\"100%\" height=\"100%\" preload controls>\n  <source src=\"https://brdl.site/video/WHAT ARE THE FUTURE FOR MALAYSIAN FREELANCERS_New Edit 2023.mp4\" type=\"video/mp4\">\n    Your browser does not support the video tag.\n</video>\n</section>",
+          "_customHTML": "<section mbr-id=\"_anchor\" class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <video width=\"100%\" height=\"100%\" preload controls>\n  <source src=\"https://brdl.site/WHAT ARE THE FUTURE FOR MALAYSIAN FREELANCERS_New Edit 2023.mp4\" type=\"video/mp4\">\n    Your browser does not support the video tag.\n</video>\n</section>",
           "_anchor": "custom-html-7x",
           "_isUserblock": true,
           "_cid": "u7hS16r8pM",
